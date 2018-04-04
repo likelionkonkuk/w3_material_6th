@@ -1,9 +1,3 @@
----
-title: "3주차 목요일 수업자료 (RoR - VC)"
-tag: material
-author: "이현경"
----
-
 RoR에 대해서 배워봅시다.
 
 ### 다운로드링크
